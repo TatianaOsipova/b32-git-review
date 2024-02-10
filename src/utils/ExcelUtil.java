@@ -10,6 +10,10 @@ public class ExcelUtil {
     public void method3(){
         // write to cell
     }
+    public static void connect(){
+        // update method
+    }
+    
 
     // line 1
 }
