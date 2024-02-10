@@ -1,8 +1,10 @@
+package utils;
+
 public class Fun {
 
-    // fishing is Fun
+    // fishing is fun
 
-    // youTube is Fun
+    // youTube is fun
 
     // java is fun
 
